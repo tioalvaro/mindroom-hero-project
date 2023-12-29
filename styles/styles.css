@@ -120,15 +120,6 @@ footer a {
     margin: 0 10px;
 }
 
-.hero-img-page {
-    padding: 10;
-    display: block;
-
-}
-
-.hero-bio {
-    text-align: justify;
-}
 
 @media only screen and (max-width: 600px) {
     main {
